@@ -1,9 +1,338 @@
 [
 	{
-		"fileName": "ritwickdey.liveserver-5.6.1",
-		"publisher": "ritwickdey",
-		"extensionName": "liveserver",
-		"version": "5.6.1",
-		"url": "https://ritwickdey.gallery.vsassets.io/_apis/public/gallery/publisher/ritwickdey/extension/liveserver/5.6.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+		"fileName": ".obsolete.vsix",
+		"publisher": "",
+		"extensionName": "obsolete",
+		"version": ".obsolete",
+		"url": "https://.gallery.vsassets.io/_apis/public/gallery/publisher//extension/obsolete/.obsolete/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "abusaidm.html-snippets-0.2.1.vsix",
+		"publisher": "abusaidm",
+		"extensionName": "html-snippets",
+		"version": "0.2.1",
+		"url": "https://abusaidm.gallery.vsassets.io/_apis/public/gallery/publisher/abusaidm/extension/html-snippets/0.2.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "aessoft.aessoft-class-autocomplete-0.1.0.vsix",
+		"publisher": "aessoft",
+		"extensionName": "aessoft-class-autocomplete",
+		"version": "0.1.0",
+		"url": "https://aessoft.gallery.vsassets.io/_apis/public/gallery/publisher/aessoft/extension/aessoft-class-autocomplete/0.1.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "bradgashler.htmltagwrap-0.0.7.vsix",
+		"publisher": "bradgashler",
+		"extensionName": "htmltagwrap",
+		"version": "0.0.7",
+		"url": "https://bradgashler.gallery.vsassets.io/_apis/public/gallery/publisher/bradgashler/extension/htmltagwrap/0.0.7/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "chris-noring.node-snippets-1.3.2.vsix",
+		"publisher": "chris",
+		"extensionName": "chris-noring.node-snippets",
+		"version": "1.3.2",
+		"url": "https://chris.gallery.vsassets.io/_apis/public/gallery/publisher/chris/extension/chris-noring.node-snippets/1.3.2/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "christian-kohler.path-intellisense-2.3.0.vsix",
+		"publisher": "christian",
+		"extensionName": "christian-kohler.path-intellisense",
+		"version": "2.3.0",
+		"url": "https://christian.gallery.vsassets.io/_apis/public/gallery/publisher/christian/extension/christian-kohler.path-intellisense/2.3.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "coenraads.bracket-pair-colorizer-1.0.61.vsix",
+		"publisher": "coenraads",
+		"extensionName": "bracket-pair-colorizer",
+		"version": "1.0.61",
+		"url": "https://coenraads.gallery.vsassets.io/_apis/public/gallery/publisher/coenraads/extension/bracket-pair-colorizer/1.0.61/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "dart-code.dart-code-3.23.1.vsix",
+		"publisher": "dart",
+		"extensionName": "dart-code.dart-code",
+		"version": "3.23.1",
+		"url": "https://dart.gallery.vsassets.io/_apis/public/gallery/publisher/dart/extension/dart-code.dart-code/3.23.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "dart-code.dart-code-3.24.2.vsix",
+		"publisher": "dart",
+		"extensionName": "dart-code.dart-code",
+		"version": "3.24.2",
+		"url": "https://dart.gallery.vsassets.io/_apis/public/gallery/publisher/dart/extension/dart-code.dart-code/3.24.2/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "dart-code.flutter-3.23.0.vsix",
+		"publisher": "dart",
+		"extensionName": "dart-code.flutter",
+		"version": "3.23.0",
+		"url": "https://dart.gallery.vsassets.io/_apis/public/gallery/publisher/dart/extension/dart-code.flutter/3.23.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "dart-code.flutter-3.24.0.vsix",
+		"publisher": "dart",
+		"extensionName": "dart-code.flutter",
+		"version": "3.24.0",
+		"url": "https://dart.gallery.vsassets.io/_apis/public/gallery/publisher/dart/extension/dart-code.flutter/3.24.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "deerawan.vscode-dash-2.4.0.vsix",
+		"publisher": "deerawan",
+		"extensionName": "vscode-dash",
+		"version": "2.4.0",
+		"url": "https://deerawan.gallery.vsassets.io/_apis/public/gallery/publisher/deerawan/extension/vscode-dash/2.4.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "deerawan.vscode-faker-1.5.0.vsix",
+		"publisher": "deerawan",
+		"extensionName": "vscode-faker",
+		"version": "1.5.0",
+		"url": "https://deerawan.gallery.vsassets.io/_apis/public/gallery/publisher/deerawan/extension/vscode-faker/1.5.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "donjayamanne.githistory-0.6.16.vsix",
+		"publisher": "donjayamanne",
+		"extensionName": "githistory",
+		"version": "0.6.16",
+		"url": "https://donjayamanne.gallery.vsassets.io/_apis/public/gallery/publisher/donjayamanne/extension/githistory/0.6.16/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "donjayamanne.githistory-0.6.17.vsix",
+		"publisher": "donjayamanne",
+		"extensionName": "githistory",
+		"version": "0.6.17",
+		"url": "https://donjayamanne.gallery.vsassets.io/_apis/public/gallery/publisher/donjayamanne/extension/githistory/0.6.17/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "donjayamanne.jquerysnippets-0.0.1.vsix",
+		"publisher": "donjayamanne",
+		"extensionName": "jquerysnippets",
+		"version": "0.0.1",
+		"url": "https://donjayamanne.gallery.vsassets.io/_apis/public/gallery/publisher/donjayamanne/extension/jquerysnippets/0.0.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "dracula-theme.theme-dracula-2.22.4.vsix",
+		"publisher": "dracula",
+		"extensionName": "dracula-theme.theme-dracula",
+		"version": "2.22.4",
+		"url": "https://dracula.gallery.vsassets.io/_apis/public/gallery/publisher/dracula/extension/dracula-theme.theme-dracula/2.22.4/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "dsznajder.es7-react-js-snippets-3.1.1.vsix",
+		"publisher": "dsznajder",
+		"extensionName": "es7-react-js-snippets",
+		"version": "3.1.1",
+		"url": "https://dsznajder.gallery.vsassets.io/_apis/public/gallery/publisher/dsznajder/extension/es7-react-js-snippets/3.1.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "equimper.react-native-react-redux-2.0.6.vsix",
+		"publisher": "equimper",
+		"extensionName": "react-native-react-redux",
+		"version": "2.0.6",
+		"url": "https://equimper.gallery.vsassets.io/_apis/public/gallery/publisher/equimper/extension/react-native-react-redux/2.0.6/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "formulahendry.auto-close-tag-0.5.10.vsix",
+		"publisher": "formulahendry",
+		"extensionName": "auto-close-tag",
+		"version": "0.5.10",
+		"url": "https://formulahendry.gallery.vsassets.io/_apis/public/gallery/publisher/formulahendry/extension/auto-close-tag/0.5.10/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "formulahendry.code-runner-0.11.4.vsix",
+		"publisher": "formulahendry",
+		"extensionName": "code-runner",
+		"version": "0.11.4",
+		"url": "https://formulahendry.gallery.vsassets.io/_apis/public/gallery/publisher/formulahendry/extension/code-runner/0.11.4/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "hollowtree.vue-snippets-1.0.4.vsix",
+		"publisher": "hollowtree",
+		"extensionName": "vue-snippets",
+		"version": "1.0.4",
+		"url": "https://hollowtree.gallery.vsassets.io/_apis/public/gallery/publisher/hollowtree/extension/vue-snippets/1.0.4/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "hookyqr.beautify-1.5.0.vsix",
+		"publisher": "hookyqr",
+		"extensionName": "beautify",
+		"version": "1.5.0",
+		"url": "https://hookyqr.gallery.vsassets.io/_apis/public/gallery/publisher/hookyqr/extension/beautify/1.5.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "impendingdoom.react-beauty-theme-0.0.6.vsix",
+		"publisher": "impendingdoom",
+		"extensionName": "react-beauty-theme",
+		"version": "0.0.6",
+		"url": "https://impendingdoom.gallery.vsassets.io/_apis/public/gallery/publisher/impendingdoom/extension/react-beauty-theme/0.0.6/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "jasonnutter.search-node-modules-1.3.0.vsix",
+		"publisher": "jasonnutter",
+		"extensionName": "search-node-modules",
+		"version": "1.3.0",
+		"url": "https://jasonnutter.gallery.vsassets.io/_apis/public/gallery/publisher/jasonnutter/extension/search-node-modules/1.3.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "jcbuisson.vue-0.1.5.vsix",
+		"publisher": "jcbuisson",
+		"extensionName": "vue",
+		"version": "0.1.5",
+		"url": "https://jcbuisson.gallery.vsassets.io/_apis/public/gallery/publisher/jcbuisson/extension/vue/0.1.5/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "joelday.docthis-0.7.1.vsix",
+		"publisher": "joelday",
+		"extensionName": "docthis",
+		"version": "0.7.1",
+		"url": "https://joelday.gallery.vsassets.io/_apis/public/gallery/publisher/joelday/extension/docthis/0.7.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "kisstkondoros.vscode-gutter-preview-0.27.1.vsix",
+		"publisher": "kisstkondoros",
+		"extensionName": "vscode-gutter-preview",
+		"version": "0.27.1",
+		"url": "https://kisstkondoros.gallery.vsassets.io/_apis/public/gallery/publisher/kisstkondoros/extension/vscode-gutter-preview/0.27.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "leizongmin.node-module-intellisense-1.5.0.vsix",
+		"publisher": "leizongmin",
+		"extensionName": "node-module-intellisense",
+		"version": "1.5.0",
+		"url": "https://leizongmin.gallery.vsassets.io/_apis/public/gallery/publisher/leizongmin/extension/node-module-intellisense/1.5.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "medzhidov.font-awesome-codes-html-0.0.7.vsix",
+		"publisher": "medzhidov",
+		"extensionName": "font-awesome-codes-html",
+		"version": "0.0.7",
+		"url": "https://medzhidov.gallery.vsassets.io/_apis/public/gallery/publisher/medzhidov/extension/font-awesome-codes-html/0.0.7/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "mikael.angular-beastcode-10.0.3.vsix",
+		"publisher": "mikael",
+		"extensionName": "angular-beastcode",
+		"version": "10.0.3",
+		"url": "https://mikael.gallery.vsassets.io/_apis/public/gallery/publisher/mikael/extension/angular-beastcode/10.0.3/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "mkxml.vscode-filesize-3.1.0.vsix",
+		"publisher": "mkxml",
+		"extensionName": "vscode-filesize",
+		"version": "3.1.0",
+		"url": "https://mkxml.gallery.vsassets.io/_apis/public/gallery/publisher/mkxml/extension/vscode-filesize/3.1.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "msjsdiag.debugger-for-chrome-4.12.12.vsix",
+		"publisher": "msjsdiag",
+		"extensionName": "debugger-for-chrome",
+		"version": "4.12.12",
+		"url": "https://msjsdiag.gallery.vsassets.io/_apis/public/gallery/publisher/msjsdiag/extension/debugger-for-chrome/4.12.12/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "octref.vetur-0.34.1.vsix",
+		"publisher": "octref",
+		"extensionName": "vetur",
+		"version": "0.34.1",
+		"url": "https://octref.gallery.vsassets.io/_apis/public/gallery/publisher/octref/extension/vetur/0.34.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "oysun.vuehelper-0.1.0.vsix",
+		"publisher": "oysun",
+		"extensionName": "vuehelper",
+		"version": "0.1.0",
+		"url": "https://oysun.gallery.vsassets.io/_apis/public/gallery/publisher/oysun/extension/vuehelper/0.1.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "pranaygp.vscode-css-peek-4.2.0.vsix",
+		"publisher": "pranaygp",
+		"extensionName": "vscode-css-peek",
+		"version": "4.2.0",
+		"url": "https://pranaygp.gallery.vsassets.io/_apis/public/gallery/publisher/pranaygp/extension/vscode-css-peek/4.2.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "sirtori.indenticator-0.7.0.vsix",
+		"publisher": "sirtori",
+		"extensionName": "indenticator",
+		"version": "0.7.0",
+		"url": "https://sirtori.gallery.vsassets.io/_apis/public/gallery/publisher/sirtori/extension/indenticator/0.7.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "techer.open-in-browser-2.0.0.vsix",
+		"publisher": "techer",
+		"extensionName": "open-in-browser",
+		"version": "2.0.0",
+		"url": "https://techer.gallery.vsassets.io/_apis/public/gallery/publisher/techer/extension/open-in-browser/2.0.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "thekalinga.bootstrap4-vscode-6.1.0.vsix",
+		"publisher": "thekalinga",
+		"extensionName": "bootstrap4-vscode",
+		"version": "6.1.0",
+		"url": "https://thekalinga.gallery.vsassets.io/_apis/public/gallery/publisher/thekalinga/extension/bootstrap4-vscode/6.1.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "timothymclane.react-redux-es6-snippets-2.1.0.vsix",
+		"publisher": "timothymclane",
+		"extensionName": "react-redux-es6-snippets",
+		"version": "2.1.0",
+		"url": "https://timothymclane.gallery.vsassets.io/_apis/public/gallery/publisher/timothymclane/extension/react-redux-es6-snippets/2.1.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "vscode-icons-team.vscode-icons-11.5.0.vsix",
+		"publisher": "vscode",
+		"extensionName": "vscode-icons-team.vscode-icons",
+		"version": "11.5.0",
+		"url": "https://vscode.gallery.vsassets.io/_apis/public/gallery/publisher/vscode/extension/vscode-icons-team.vscode-icons/11.5.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "wallabyjs.quokka-vscode-1.0.381.vsix",
+		"publisher": "wallabyjs",
+		"extensionName": "quokka-vscode",
+		"version": "1.0.381",
+		"url": "https://wallabyjs.gallery.vsassets.io/_apis/public/gallery/publisher/wallabyjs/extension/quokka-vscode/1.0.381/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "wallabyjs.quokka-vscode-1.0.384.vsix",
+		"publisher": "wallabyjs",
+		"extensionName": "quokka-vscode",
+		"version": "1.0.384",
+		"url": "https://wallabyjs.gallery.vsassets.io/_apis/public/gallery/publisher/wallabyjs/extension/quokka-vscode/1.0.384/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "xabikos.javascriptsnippets-1.8.0.vsix",
+		"publisher": "xabikos",
+		"extensionName": "javascriptsnippets",
+		"version": "1.8.0",
+		"url": "https://xabikos.gallery.vsassets.io/_apis/public/gallery/publisher/xabikos/extension/javascriptsnippets/1.8.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "xabikos.reactsnippets-2.4.0.vsix",
+		"publisher": "xabikos",
+		"extensionName": "reactsnippets",
+		"version": "2.4.0",
+		"url": "https://xabikos.gallery.vsassets.io/_apis/public/gallery/publisher/xabikos/extension/reactsnippets/2.4.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "xyz.local-history-1.8.1.vsix",
+		"publisher": "xyz",
+		"extensionName": "local-history",
+		"version": "1.8.1",
+		"url": "https://xyz.gallery.vsassets.io/_apis/public/gallery/publisher/xyz/extension/local-history/1.8.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "zhuangtongfa.material-theme-3.10.14.vsix",
+		"publisher": "zhuangtongfa",
+		"extensionName": "material-theme",
+		"version": "3.10.14",
+		"url": "https://zhuangtongfa.gallery.vsassets.io/_apis/public/gallery/publisher/zhuangtongfa/extension/material-theme/3.10.14/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "zignd.html-css-class-completion-1.20.0.vsix",
+		"publisher": "zignd",
+		"extensionName": "html-css-class-completion",
+		"version": "1.20.0",
+		"url": "https://zignd.gallery.vsassets.io/_apis/public/gallery/publisher/zignd/extension/html-css-class-completion/1.20.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
 	}
 ]
