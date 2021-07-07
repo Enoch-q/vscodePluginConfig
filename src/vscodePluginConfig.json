@@ -1,12 +1,5 @@
 [
 	{
-		"fileName": ".obsolete.vsix",
-		"publisher": "",
-		"extensionName": "obsolete",
-		"version": ".obsolete",
-		"url": "https://.gallery.vsassets.io/_apis/public/gallery/publisher//extension/obsolete/.obsolete/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
-	},
-	{
 		"fileName": "abusaidm.html-snippets-0.2.1.vsix",
 		"publisher": "abusaidm",
 		"extensionName": "html-snippets",
@@ -29,17 +22,17 @@
 	},
 	{
 		"fileName": "chris-noring.node-snippets-1.3.2.vsix",
-		"publisher": "chris",
-		"extensionName": "chris-noring.node-snippets",
+		"publisher": "chris-noring",
+		"extensionName": "node-snippets",
 		"version": "1.3.2",
-		"url": "https://chris.gallery.vsassets.io/_apis/public/gallery/publisher/chris/extension/chris-noring.node-snippets/1.3.2/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+		"url": "https://chris-noring.gallery.vsassets.io/_apis/public/gallery/publisher/chris-noring/extension/node-snippets/1.3.2/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
 	},
 	{
 		"fileName": "christian-kohler.path-intellisense-2.3.0.vsix",
-		"publisher": "christian",
-		"extensionName": "christian-kohler.path-intellisense",
+		"publisher": "christian-kohler",
+		"extensionName": "path-intellisense",
 		"version": "2.3.0",
-		"url": "https://christian.gallery.vsassets.io/_apis/public/gallery/publisher/christian/extension/christian-kohler.path-intellisense/2.3.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+		"url": "https://christian-kohler.gallery.vsassets.io/_apis/public/gallery/publisher/christian-kohler/extension/path-intellisense/2.3.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
 	},
 	{
 		"fileName": "coenraads.bracket-pair-colorizer-1.0.61.vsix",
@@ -50,31 +43,38 @@
 	},
 	{
 		"fileName": "dart-code.dart-code-3.23.1.vsix",
-		"publisher": "dart",
-		"extensionName": "dart-code.dart-code",
+		"publisher": "dart-code",
+		"extensionName": "dart-code",
 		"version": "3.23.1",
-		"url": "https://dart.gallery.vsassets.io/_apis/public/gallery/publisher/dart/extension/dart-code.dart-code/3.23.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+		"url": "https://dart-code.gallery.vsassets.io/_apis/public/gallery/publisher/dart-code/extension/dart-code/3.23.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
 	},
 	{
 		"fileName": "dart-code.dart-code-3.24.2.vsix",
-		"publisher": "dart",
-		"extensionName": "dart-code.dart-code",
+		"publisher": "dart-code",
+		"extensionName": "dart-code",
 		"version": "3.24.2",
-		"url": "https://dart.gallery.vsassets.io/_apis/public/gallery/publisher/dart/extension/dart-code.dart-code/3.24.2/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+		"url": "https://dart-code.gallery.vsassets.io/_apis/public/gallery/publisher/dart-code/extension/dart-code/3.24.2/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
 	},
 	{
 		"fileName": "dart-code.flutter-3.23.0.vsix",
-		"publisher": "dart",
-		"extensionName": "dart-code.flutter",
+		"publisher": "dart-code",
+		"extensionName": "flutter",
 		"version": "3.23.0",
-		"url": "https://dart.gallery.vsassets.io/_apis/public/gallery/publisher/dart/extension/dart-code.flutter/3.23.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+		"url": "https://dart-code.gallery.vsassets.io/_apis/public/gallery/publisher/dart-code/extension/flutter/3.23.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
 	},
 	{
 		"fileName": "dart-code.flutter-3.24.0.vsix",
-		"publisher": "dart",
-		"extensionName": "dart-code.flutter",
+		"publisher": "dart-code",
+		"extensionName": "flutter",
 		"version": "3.24.0",
-		"url": "https://dart.gallery.vsassets.io/_apis/public/gallery/publisher/dart/extension/dart-code.flutter/3.24.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+		"url": "https://dart-code.gallery.vsassets.io/_apis/public/gallery/publisher/dart-code/extension/flutter/3.24.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "dbaeumer.vscode-eslint-2.1.23.vsix",
+		"publisher": "dbaeumer",
+		"extensionName": "vscode-eslint",
+		"version": "2.1.23",
+		"url": "https://dbaeumer.gallery.vsassets.io/_apis/public/gallery/publisher/dbaeumer/extension/vscode-eslint/2.1.23/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
 	},
 	{
 		"fileName": "deerawan.vscode-dash-2.4.0.vsix",
@@ -113,10 +113,10 @@
 	},
 	{
 		"fileName": "dracula-theme.theme-dracula-2.22.4.vsix",
-		"publisher": "dracula",
-		"extensionName": "dracula-theme.theme-dracula",
+		"publisher": "dracula-theme",
+		"extensionName": "theme-dracula",
 		"version": "2.22.4",
-		"url": "https://dracula.gallery.vsassets.io/_apis/public/gallery/publisher/dracula/extension/dracula-theme.theme-dracula/2.22.4/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+		"url": "https://dracula-theme.gallery.vsassets.io/_apis/public/gallery/publisher/dracula-theme/extension/theme-dracula/2.22.4/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
 	},
 	{
 		"fileName": "dsznajder.es7-react-js-snippets-3.1.1.vsix",
@@ -126,11 +126,25 @@
 		"url": "https://dsznajder.gallery.vsassets.io/_apis/public/gallery/publisher/dsznajder/extension/es7-react-js-snippets/3.1.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
 	},
 	{
+		"fileName": "eamodio.gitlens-11.5.1.vsix",
+		"publisher": "eamodio",
+		"extensionName": "gitlens",
+		"version": "11.5.1",
+		"url": "https://eamodio.gallery.vsassets.io/_apis/public/gallery/publisher/eamodio/extension/gitlens/11.5.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
 		"fileName": "equimper.react-native-react-redux-2.0.6.vsix",
 		"publisher": "equimper",
 		"extensionName": "react-native-react-redux",
 		"version": "2.0.6",
 		"url": "https://equimper.gallery.vsassets.io/_apis/public/gallery/publisher/equimper/extension/react-native-react-redux/2.0.6/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
+		"fileName": "esbenp.prettier-vscode-8.0.1.vsix",
+		"publisher": "esbenp",
+		"extensionName": "prettier-vscode",
+		"version": "8.0.1",
+		"url": "https://esbenp.gallery.vsassets.io/_apis/public/gallery/publisher/esbenp/extension/prettier-vscode/8.0.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
 	},
 	{
 		"fileName": "formulahendry.auto-close-tag-0.5.10.vsix",
@@ -189,6 +203,13 @@
 		"url": "https://joelday.gallery.vsassets.io/_apis/public/gallery/publisher/joelday/extension/docthis/0.7.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
 	},
 	{
+		"fileName": "jpoissonnier.vscode-styled-components-1.6.4.vsix",
+		"publisher": "jpoissonnier",
+		"extensionName": "vscode-styled-components",
+		"version": "1.6.4",
+		"url": "https://jpoissonnier.gallery.vsassets.io/_apis/public/gallery/publisher/jpoissonnier/extension/vscode-styled-components/1.6.4/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
 		"fileName": "kisstkondoros.vscode-gutter-preview-0.27.1.vsix",
 		"publisher": "kisstkondoros",
 		"extensionName": "vscode-gutter-preview",
@@ -245,6 +266,13 @@
 		"url": "https://oysun.gallery.vsassets.io/_apis/public/gallery/publisher/oysun/extension/vuehelper/0.1.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
 	},
 	{
+		"fileName": "pflannery.vscode-versionlens-1.0.9.vsix",
+		"publisher": "pflannery",
+		"extensionName": "vscode-versionlens",
+		"version": "1.0.9",
+		"url": "https://pflannery.gallery.vsassets.io/_apis/public/gallery/publisher/pflannery/extension/vscode-versionlens/1.0.9/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+	},
+	{
 		"fileName": "pranaygp.vscode-css-peek-4.2.0.vsix",
 		"publisher": "pranaygp",
 		"extensionName": "vscode-css-peek",
@@ -281,10 +309,10 @@
 	},
 	{
 		"fileName": "vscode-icons-team.vscode-icons-11.5.0.vsix",
-		"publisher": "vscode",
-		"extensionName": "vscode-icons-team.vscode-icons",
+		"publisher": "vscode-icons-team",
+		"extensionName": "vscode-icons",
 		"version": "11.5.0",
-		"url": "https://vscode.gallery.vsassets.io/_apis/public/gallery/publisher/vscode/extension/vscode-icons-team.vscode-icons/11.5.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+		"url": "https://vscode-icons-team.gallery.vsassets.io/_apis/public/gallery/publisher/vscode-icons-team/extension/vscode-icons/11.5.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
 	},
 	{
 		"fileName": "wallabyjs.quokka-vscode-1.0.381.vsix",
