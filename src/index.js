@@ -1,7 +1,9 @@
 const { install } = require('./install');
 const { writePluginConfig } = require('./writePlugin');
 
-module.exports = {
+let main = {
   install,
   writePluginConfig
-}
+};
+
+module.exports = main;
